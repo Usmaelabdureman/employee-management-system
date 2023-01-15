@@ -7,7 +7,7 @@ export const AppStyle = createGlobalStyle`
 
 body {
     margin: 0;
-font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+font-family: BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
   'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
   sans-serif;
 -webkit-font-smoothing: antialiased;
@@ -26,7 +26,9 @@ Container h1{
 }
 `;
 const Header = styled.header`
-    background-color: #2808F1;
+text-align: center;
+margin: 0rem;
+background-color: #2808F1;
 min-height: 10vh;
 display: flex;
 flex-direction: column;
