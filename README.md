@@ -1,3 +1,9 @@
+#Simple Employee Management 
+<p>test project for Addis Software Development plc</p>
+
+#Redux-saga
+<h2>Redux-saga is a redux middleware library designed to make handling side effects easy and readable. It leverages ES6 Generators which allows us to write asynchronous code that looks synchronous</h2>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
