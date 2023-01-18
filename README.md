@@ -2,7 +2,7 @@
 <p>test project for Addis Software Development plc</p>
 
 #Redux-saga
-<h2>Redux-saga is a redux middleware library designed to make handling side effects easy and readable. It leverages ES6 Generators which allows us to write asynchronous code that looks synchronous</h2>
+<h2>Redux-saga is a redux middleware library designed to make handling Redux side effects logic, such as simple async logic (like a request to the API).. It leverages ES6 Generators which allows us to write asynchronous code that looks synchronous</h2>
 
 # Getting Started with Create React App
 
